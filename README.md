@@ -2,9 +2,9 @@ GroundStudio BME280 3V3 module
 ====================================
 ![BMx280 3V3 module REV0 2](https://github.com/GroundStudio/GroundStudio_BME280_3V3_module/assets/77836107/ecbe0447-1c19-4367-bf93-3186a975584b)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/home/2524-modul-senzor-presiune-atmosferica-bme280-3v3-groundstudio.html)
+Get it from [ardushop.ro](https://ardushop.ro/en/groundstudio/2450-groundstudio-bme280-3v3-module-6427854034793.html)
 
-Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
+Explore all the GroundStudio products at [ardushop.ro](https://ardushop.ro/en/37-groundstudio)
 
 Description
 -------------------
